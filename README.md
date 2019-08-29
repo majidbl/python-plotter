@@ -3,7 +3,7 @@ a simple 2D-3D ploter with python in linux
 
 Dependency:
 
-python3 (tested with pythin 3.6)
+python3 (tested with pythin 3.6 on Ubuntu 18.04.2)
 
 gtk3
 
