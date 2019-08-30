@@ -14,3 +14,7 @@ numpy
 matplotlib
 
 just run in terminal :  python3.6 plotterEV4Comp.py 
+
+2D and 3D is Almost completed.
+
+Hist is in dev process
